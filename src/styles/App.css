@@ -1,0 +1,13 @@
+nav {
+  padding: 1rem;
+  /* border: 1px solid black; */
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+a {
+  margin-left: 1rem;
+  text-decoration: none;
+  color: blue;
+}
